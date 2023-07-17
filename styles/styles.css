@@ -4,3 +4,56 @@
   *{
     font-family: 'Work Sans', sans-serif;
   }
+  .btn-primary{
+
+  }
+  /* header style */
+  header{
+    background: rgba(255, 144, 14, 0.10);
+    padding: 50px 240px;
+  }
+  nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  nav>ul{
+    display: flex;
+  }
+  nav li{
+    list-style: none;
+    margin-right: 30px;
+    font-weight: 500;
+  }
+  nav li a{
+    color: #474747;
+    text-decoration: none;
+  }
+  .nav-title{
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: #131313;
+  }
+  /* banner style */
+  .banner-content{
+    min-width: 800px;
+    text-align:center;
+    margin: 0 auto;
+  }
+  .banner-title{
+     font-size: 4rem;
+     font-weight: 700;
+     color:#131313;
+  }
+  .banner-description{
+    color: #727272;
+    
+  }
+  .first-img{
+    width: 123%;
+    padding: 10px;
+    margin-left: -94px;
+  }
+  .btn-primary{
+
+  }
